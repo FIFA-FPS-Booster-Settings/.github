@@ -59,7 +59,7 @@ Prerequisites: The game installed, current drivers, and a match to test.
 - **Older rigs:** FIFA FPS Booster stutter fix revives modest hardware.
 - **Handhelds:** FIFA FPS Booster launch options helps low-power devices.
 
-![FIFA FPS Booster](https://avatars.mds.yandex.net/i?id=a058542e59a0eeeb1528be3401329a4b7d9065ec-4451190-images-thumbs&n=13)
+![FIFA FPS Booster](https://www.rma.ru/uploads/news_pic/55e2fc1185.jpg)
 
 ## Related Search Terms
 
